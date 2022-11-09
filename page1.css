@@ -1,0 +1,29 @@
+.logo{
+    border-radius: 50%;
+}
+
+.col1-img1{
+    border-radius: 25px;
+    box-shadow: 5px 5px 8px gray;
+    cursor: pointer;
+}
+
+.col1-img1:hover{
+    border: 1px solid white;
+    box-shadow: 0px 0px 10px gray;
+}
+
+.row-col2-div-3{
+    border: none;
+    box-shadow: 2px 2px 3px gray;
+    border-radius: 15px;
+    min-width: 120px;
+    background-color: white;
+    color: red;
+    font: bold;
+}
+
+.row-col2-div-3:hover{
+     box-shadow: 0px 0px 2px gray;
+     transition: 0.3s;
+}
