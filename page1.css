@@ -27,3 +27,22 @@
      box-shadow: 0px 0px 2px gray;
      transition: 0.3s;
 }
+
+.contact{
+    font-size: 50px;
+    margin-left: 100px;
+}
+.c1{
+ 
+    height: 600px;
+    margin-left: 100px;
+    width: 450px;
+}
+.text{
+    margin-top: 20px;
+    margin-left:100px;
+    font-size: 25px;
+}
+.img{
+    margin-left: 100px;
+}
