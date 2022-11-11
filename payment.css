@@ -41,7 +41,7 @@ h1{
     display: flex;
     justify-content: space-between;
 }
-.btn{
+.btn1{
     width: 90%;
     padding: 10px;
     border-radius: 20px;
@@ -51,7 +51,8 @@ h1{
     border: 0;
     margin-left: 27px;
     margin-top: 20px;
+    box-shadow: 3px 3px 8px gray;
 }
-.btn:hover{
+.btn1:hover{
     box-shadow: 0 0 8px 0 rgb(34, 33, 33);
 }
