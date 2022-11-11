@@ -36,6 +36,18 @@
     background-color: black;
     color: white;
 }
+.dance-info-container{
+    height: 480px;
+    width: 250px;
+}
+.dance-container{
+    height: 580px;
+    width: 250px;
+}
+.latin-dance-container{
+    height: 550px;
+    width: 250px;
+}
 
 .home-btn{
     border-radius: 15px;
