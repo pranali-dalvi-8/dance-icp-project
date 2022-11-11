@@ -15,6 +15,10 @@
     min-width: 200px;
     border-radius: 20px;
 }
+.container-card-img:hover{
+    -webkit-transform: scaleX(-1);
+     transform: scaleX(-1);
+}
 
 .container-card-btn{
     border-radius: 20px;
