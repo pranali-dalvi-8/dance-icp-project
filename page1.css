@@ -27,6 +27,17 @@
      box-shadow: 0px 0px 2px gray;
      transition: 0.3s;
 }
+.categories-img{
+    border-radius: 20px;
+    box-shadow: 0 0 3px 3px black;
+}
+.categories-img:hover{
+    cursor: pointer;
+    transition: 0.5s;
+    box-shadow: 0 0 4px 4px black;
+    -webkit-transform: scaleX(-1);
+     transform: scaleX(-1);
+}
 
 .contact{
     font-size: 50px;
