@@ -57,6 +57,20 @@
 .img{
     margin-left: 100px;
 }
+.imgs{
+    margin-left: 250px;
+}
+.sub{
+    margin-left: 200px;
+    margin-top: 80px;
+    border: 1px solid white;
+    border-radius: 25px;
+    font-size: 25px;
+    padding: 5px;
+    width: 190px;
+    color: white;
+    background-color: black;
+}
 
 /*.popup{
     width:500px;
